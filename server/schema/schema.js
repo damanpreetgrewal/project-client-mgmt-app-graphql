@@ -1,3 +1,5 @@
+const { projects, clients } = require("../sampleData");
+
 //Mongoose models
 const Project = require("../models/Project");
 const Client = require("../models/Client");
